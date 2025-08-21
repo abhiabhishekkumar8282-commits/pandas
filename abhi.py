@@ -8,3 +8,6 @@ for i in range(num):
     hello
     dsdsc
     csc
+    fhjud
+    fgd
+    
